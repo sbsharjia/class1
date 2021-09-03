@@ -1,0 +1,39 @@
+***There are two types of web site:
+	1. Design. 
+	2. Development
+
+***Development can be divided into two parts:
+	1: Font-End Developer
+	2: Back-End Developer
+
+**UI-->User Interface
+**UX-->User Experience
+
+*** যারা Font-End developer অ্যান্ড Back-End developer নিয়ে  কাজ করে তাকে  Full Stack Developer বলে।
+
+*** Font-end developer হতে হলে কি কি জানতে হবে  যথা:
+	1. HTML/HTML5-->>Hyper Text Mark Up Language
+	2.CSS/CSS3--->>>Cascading Style Sheet
+	3.JAVASCRIPT
+
+*** Back End Developer হতে হলে কি কি জানতে হবে যথা:
+	1.Server
+	    >>php, python
+	2.Database
+	3.programming language
+	4.Api
+
+****HTML TAG:
+	**<html>..</html>
+	**<head>..</head>
+	<title>..</title>
+	<body>..</body>
+	** <p>...</p>
+	** h1,h2,h3,h4,h5,h6
+	** <div>..</div>
+	** <img>..</img>
+	** <a>..</a>
+	
+
+
+
